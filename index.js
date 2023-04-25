@@ -1,18 +1,18 @@
+
+
+//import { y } from "./app"; //SyntaxError: Cannot use import statement outside a module (node js cant use export and import)
+const app = require("./app");  // in node js we can directly export or import the  variable we can do it via module.exports
+
 //node js is runtime enivorment
 
-console.log("sub")
-var a= 20;
-var b= 30;
-var c=40;
-console.warn(a+b+c)
+// console.log("sub")
+// var a= 20;
+// var b= 30;
+// var c=40;
+// console.warn(a+b+c)
 
 //terminal node index.js
 //console.log 
-
-//import { y } from "./app"; //SyntaxError: Cannot use import statement outside a module (node js cant use export and import)
-const app = require("./app"); 
-
-
 // var x = 20;
 // let y = 30;
 // const z = 40;
@@ -46,5 +46,6 @@ const app = require("./app");
 // console.log(arr[0]);
 
 const arr = [2, 4, 7, 1, 3, 8, 3];
-console.log(app.y);
+// in node js we can directly export or import the  variable we can do it via module.exports
+console.log(app.y);// app.js variables
 console.log(app.x);
