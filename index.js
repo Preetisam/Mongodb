@@ -50,3 +50,35 @@ const arr = [2, 4, 7, 1, 3, 8, 3];
 console.log(app.y);// app.js variables
 console.log(app.x);
 console.log(app.z());
+//filter function
+// const arr = [2, 4, 7, 1, 3, 8, 3];
+// arr.filter((item) => {
+//     console.log(item);
+// });
+// let result = arr.filter((item) => {
+//   return item === 3;
+// });
+// console.warn(result);//[ 3, 3 ] //[ 3, 3 ]
+
+// const arr = [2, 4, 7, 1, 3, 8, 3];
+// let result = arr.filter((item) => {
+//   return item >= 4;
+// });
+// console.warn(result); //[ 3, 3 ]
+
+//core modules are inbuit modeles which are present here they are two types gobal(console.log __filename, __dir) and non gobal (filesystem and buffer)
+// what are gobal modules?
+//File System
+// const fs = require("fs");
+// console.log("coding is in the process"); //gobal module
+// fs.writeFileSync("hello.txt", "coding is fun");
+//fs.writeFileSync("hello2.txt", "coding is fun"); // this will create a new foldr with the name hello txt file and with the codung is fun in the content
+
+// console.log("=>>", __dirname); //it will give the directory where it is locatation of folder =>> E:\anil mongodb
+// console.log("->>", __filename); //->> E:\anil mongodb\index.js it will give the directory where it is locataction of file name
+
+//2nd method dirctly import of file system
+
+const fs = require("fs").writeFileSync;
+fs("abc.txt", "helo world");
+
