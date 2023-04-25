@@ -28,11 +28,19 @@ Mobile App =>Servver=>File system
   node package managaer
   command prompt after installation
   node -v in cdm
-  
+  <ui>
   <li>List of Recommended Code Editor</li>
   <li>Vs code</li>
   <li>Sublime </li>
   <li>Atom <li>
   <li>Web strom<li>
+  
+  </ui>
+  
+  </br> #v---4
+  <ui>
+  <li>Script with command line</li>
+  <li>Make a folder and a file</li>
+ 
   
   </ui>
