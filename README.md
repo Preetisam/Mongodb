@@ -11,19 +11,19 @@ introduction to mongo db
 <li>Node js free , open source </li></br>
 <li>Node js use Chrome v8 engine to execute code.</li> </br>
 
-Why do we use it?
+<h5>Why do we use it?</h5>
 <li>Node Js mostly used for Api</li> </br>
 <li>So we can connect the same database with WEDAPP , MOBILEAPP.</li></br>
 <li>Node is easy to understand who know javascript.</li></br>
 <li>Node is super-fast for APIS</li></br>
 <li>With Node and javascript  you can become full Stack Develope</li>
 
-History of Node?
+<h6>History of Node?</h6>
 <li>First Release:May 27 , 2009 </li></br>
 <li>Current Version:16.4</li></br>
 <li>Written in C , c++, Javascript</li></br>
 </ui>
-Are Node and Javascript the same?
+<h5>Are Node and Javascript the same?</h5>
 
 <li>javaScript  and node js Code  Syntax is Same</li>
 <li>if you know javascript you can easily understand Node.</li>
