@@ -27,5 +27,10 @@ Are Node and Javascript the same?
 
 <li>javaScript  and node js Code  Syntax is Same</li>
 <li>if you know javascript you can easily understand Node.</li>
-  <li>if you know javascript you can easily understand Node.</li>
+  <li>But both are not exactly same </li>
+    <li>You can not connect javascript to Db  </li>
+      <li>Node can connect Javascript to Db  </li>
+        <li>Node js run on the server side </li>
+          <li>javascript is run on the bowser </li>
+          
 </ui>
