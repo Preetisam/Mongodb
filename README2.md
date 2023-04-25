@@ -21,7 +21,7 @@ Chrome V8 engine(c++) convert =>js to result
 WEB App =>Server=>Database 
 Mobile App =>Servver=>File system
 </br><em>#v--3</em>
-<h5>Installation and setuo Node js</h5>
+<h5>Installation and setup Node js</h5>
 <ui>
 <li>Download Node js</li>
   https://nodejs.org/en/download
@@ -80,7 +80,25 @@ Mobile App =>Servver=>File system
   </ui>
   <ui>
   <li>What are the core modules ?</li>
+  <li>Node.js comes with several built-in modules also known as core modules that provide developers a set of functionalities to work with. </li>
     <li>thses are inbuit core module in the  node modules </li>
+  <p>http - This module provides a way to create HTTP server and client to interact with HTTP resources.
+
+fs - This module provides APIs to interact with the file system. It enables reading, writing, and manipulating files on the file system.
+
+path - This module provides a way to handle and manipulate file paths, including directory and filename operations.
+
+os - This module provides information about the operating system such as the computer's hostname, the type of operating system, the amount of free memory available, etc.
+
+events - This module provides a way to handle and emit events in Node.js applications.
+
+util - This module provides various utility functions that can be used to perform common tasks, such as event handling, debugging, etc.
+
+crypto - This module provides cryptographic and hashing functions to safely hash passwords and other sensitive information.
+
+stream - This module provides a way to read or write data to a stream. It enables the creation of custom streams for communication between different parts of an application.
+
+These are just a few of the core modules available in Node.js. Each of them provides a set of functionalities to perform specific tasks, making Node.js a versatile and efficient platform for development.</p>
   <li>FS(file system) </li>
   <li>Buffer </li>
   <li> HTTP </li>
