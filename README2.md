@@ -69,6 +69,8 @@ Mobile App =>Servver=>File system
 <h5>Core Module in Nodejs </h5>
 <ui>
   <li>What are the core modules ?</li>
+  <p>Core modules are modules built into Node.js that can be loaded with the require() function without the need for an additional installation. These modules provide fundamental functionality to Node.js, such as file system I/O, networking, and cryptography. Some of the core modules include fs (file system), http (networking), crypto (cryptography), and os (operating system).</p>
+  
   <li>Whae are global modules? </li>
   <li>Goldal Model example  </li>
   <li> Non Goldal Model example  </li>
@@ -86,7 +88,10 @@ Mobile App =>Servver=>File system
   </ui>
    <ui>
     <li>What are global modules? </li>
-  
+  <p>Global modules are Node.js modules that are installed globally on your system rather than locally in a specific project's node_modules directory. Global modules can be accessed from anywhere on your system and can be useful for command line tools or utilities that you want to be able to use from anywhere.</p>
+  <p>we use the http module to create a server, specify the status code and content type for the response, and send the response body. We then start the server and listen on port 3000.
+
+It's worth noting that Core modules are built into Node.js and have no external dependencies, so they're usually faster than third-party modules.(code is in index.js file)</p>
 
   
   </ui>
