@@ -49,3 +49,4 @@ const arr = [2, 4, 7, 1, 3, 8, 3];
 // in node js we can directly export or import the  variable we can do it via module.exports
 console.log(app.y);// app.js variables
 console.log(app.x);
+console.log(app.z());
