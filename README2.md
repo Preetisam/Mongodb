@@ -41,6 +41,16 @@ Mobile App =>Servver=>File system
   <ui>
   <li>Script with command line</li>
   <li>Make a folder and a file</li>
- 
+<li> Command prompt coding </li>
+    <li>node - v</li>
+  <li>console.log("like")</li>
+  <li>var x =10</li>
+  <li>console.log(x)</li>
+ <li> //10</li>
   
+  <li>var y =20</li>
+ <li> console.log(x+y)</li>
+  <li>30</li>
   </ui>
+  
+  
