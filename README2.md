@@ -1,10 +1,11 @@
 <ui>
 <li>What are Client and server Sides?</li>
+  https://kamilapreetisamuel.hashnode.dev/what-are-the-client-and-server-sides
   <li>Where do we use node (Client or Server Side)?</li>
   <li>How Node js use Javascript</li>
   <li>What developer Make with Nodejs</li>
   </ui>
-  
+  https://kamilapreetisamuel.hashnode.dev/what-are-the-client-and-server-sides
 client =>server
 client(js, html, css) <=>(request and response) Api through Server(node js)
 Chrome V8 engine(c++) convert =>js to result 
