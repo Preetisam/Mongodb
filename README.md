@@ -34,3 +34,18 @@ introduction to mongo db
           <li>javascript is run on the bowser </li>
           
 </ui>
+<h4>Major Topics</h4>
+<ui>
+  <li>What is Node js</li>
+    <li>How it works</li>
+    <li>Install and run</li>
+    <li>Make Basic Api</li>  
+  <li>use with express.js</li>
+    <li>UI with Node</li> 
+  <ui>
+    <ol>Ui event</ol>
+       <ol>Forms</ol>
+       <ol>Web pages</ol>
+  </ui>
+  <li>Node js Events</li>  <li>Middle ware</li>  <li>Major packages</li>  <li>connect with db</li>  <li>make major API</li>  <li>API securtiy</li>  <liApi validation></li>  <li>Project</li>  <li>Live with server</li>  
+</ui>
