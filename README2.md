@@ -63,3 +63,15 @@ Mobile App =>Servver=>File system
 
   
   </ui>
+    </br> 
+    </br> #v---6
+  </br> 
+<h5>Core Module in Nodejs </h5>
+<ui>
+  <liWhat are thr core modules ?</li>
+  <li>Whae are global modules? </li>
+  <li>Goldal Model example  </li>
+  <li> Non Goldal Model example  </li>
+
+  
+  </ui>
