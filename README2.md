@@ -85,7 +85,7 @@ Mobile App =>Servver=>File system
   
   </ui>
    <ui>
-    <li>Whae are global modules? </li>
+    <li>What are global modules? </li>
   
 
   
