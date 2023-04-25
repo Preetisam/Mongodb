@@ -52,5 +52,14 @@ Mobile App =>Servver=>File system
  <li> console.log(x+y)</li>
   <li>30</li>
   </ui>
+  </br> 
+    </br> #v---5
+  </br> 
+<h5>Fundementals of Node jss</h5>
+<ui>
+  <lijavascript Fundementals for Node js</li>
+  <li>Conditions , loops, and Arrays</li>
+  <li>The important function and variables from another file  </li>
+
   
-  
+  </ui>
