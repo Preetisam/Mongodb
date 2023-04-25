@@ -2,28 +2,29 @@
 introduction to mongo db
 
 <h1>What is Node?</h1>
-
-<h2>Node is not a Language.</h2>
-This a Server Environment it use javascript internally </br>
-Node js can connect with database </br>
-Code and syntax is very similar to javascript </br>
-But not exactly the same </br>
-Node js free , open source </br>
-Node js use Chrome v8 engine to execute code. </br>
+<ui>
+<li>Node is not a Language.</li>
+<li>This a Server Environment it use javascript internally</li> </br>
+<li>Node js can connect with database</li> </br>
+<li>Code and syntax is very similar to javascript</li> </br>
+<li>But not exactly the same </li></br>
+<li>Node js free , open source </li></br>
+<li>Node js use Chrome v8 engine to execute code.</li> </br>
 
 Why do we use it?
-Node Js mostly used for Api </br>
-So we can connect the same database with WEDAPP , MOBILEAPP.</br>
-Node is easy to understand who know javascript.</br>
-Node is super-fast for APIS</br>
-With Node and javascript  you can become full Stack Developer
+<li>Node Js mostly used for Api</li> </br>
+<li>So we can connect the same database with WEDAPP , MOBILEAPP.</li></br>
+<li>Node is easy to understand who know javascript.</li></br>
+<li>Node is super-fast for APIS</li></br>
+<li>With Node and javascript  you can become full Stack Develope</li>
 
 History of Node?
-First Release:May 27 , 2009 </br>
-Current Version:16.4</br>
-Written in C , c++, Javascript</br>
+<li>First Release:May 27 , 2009 </li></br>
+<li>Current Version:16.4</li></br>
+<li>Written in C , c++, Javascript</li></br>
+</ui>
 Are Node and Javascript the same?
-<ui>
+
 <li>javaScript  and node js Code  Syntax is Same</li>
 <li>if you know javascript you can easily understand Node.</li>
   <li>if you know javascript you can easily understand Node.</li>
