@@ -57,7 +57,7 @@ Mobile App =>Servver=>File system
   </br> 
 <h5>Fundementals of Node jss</h5>
 <ui>
-  <lijavascript Fundementals for Node js</li>
+  <li>javascript Fundementals for Node js</li>
   <li>Conditions , loops, and Arrays</li>
   <li>The important function and variables from another file  </li>
 
@@ -68,10 +68,27 @@ Mobile App =>Servver=>File system
   </br> 
 <h5>Core Module in Nodejs </h5>
 <ui>
-  <liWhat are thr core modules ?</li>
+  <li>What are the core modules ?</li>
   <li>Whae are global modules? </li>
   <li>Goldal Model example  </li>
   <li> Non Goldal Model example  </li>
 
   
   </ui>
+  <ui>
+  <li>What are the core modules ?</li>
+    <li>thses are inbuit core module in the  node modules </li>
+  <li>FS(file system) </li>
+  <li>Buffer </li>
+  <li> HTTP </li>
+
+  
+  </ui>
+   <ui>
+    <li>Whae are global modules? </li>
+  
+
+  
+  </ui>
+  
+
