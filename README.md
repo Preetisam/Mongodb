@@ -18,6 +18,13 @@ Node is easy to understand who know javascript.</br>
 Node is super-fast for APIS</br>
 With Node and javascript  you can become full Stack Developer
 
-Hidtory of Node?
+History of Node?
+First Release:May 27 , 2009 </br>
+Current Version:16.4</br>
+Written in C , c++, Javascript</br>
 Are Node and Javascript the same?
-
+<ui>
+<li>javaScript  and node js Code  Syntax is Same</li>
+<li>if you know javascript you can easily understand Node.</li>
+  <li>if you know javascript you can easily understand Node.</li>
+</ui>
